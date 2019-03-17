@@ -1,2 +1,2 @@
 # Weikuma Repository
-lol kittens are very cool
+Building a website for a very special Kuma.
